@@ -23,4 +23,19 @@ In this prject we are creating three servers they are Rasa server, Rasa actions 
 - By taking information from the user we predict that patient may or may not claim his insurance policy and inform him with chat.
 - The chat will end when the user gives bye and close the chat.
 
+#requirments
+We are using packages like 
+json, 
+cv2, 
+pytesseract, 
+sys, 
+os, 
+re, 
+datetime, 
+joblib, 
+random, 
+flask, and 
+rasa 
+
+
 
